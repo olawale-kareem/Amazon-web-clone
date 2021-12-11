@@ -25,7 +25,6 @@ function Product() {
 
             <button>Add to basket</button>
 
-
         </div>
     )
 }

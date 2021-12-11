@@ -4,8 +4,14 @@
 
   align-items: center;
   justify-content: flex-end;
-  background: white;
+  background-color: white;
   z-index: 1;
+
+  margin: 10px;
+  padding: 20px;
+  width: 100%;
+  max-height: 400px;
+  min-width: 100px;
 }
 
 .product > img {
@@ -16,6 +22,7 @@
 }
 
 .product__info {
+  /* text-align: left; */
   height: 100px;
   margin-bottom: 15px;
 }
